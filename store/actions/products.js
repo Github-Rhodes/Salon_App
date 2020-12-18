@@ -45,7 +45,7 @@ export const fetchProducts = () => {
     }
   };
 };
-https://salon-products-server-default-rtdb.firebaseio.com/products
+
 export const deleteProduct = productId => {
   return async (dispatch, getState) => {
     const token = getState().auth.token;
