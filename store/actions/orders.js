@@ -41,7 +41,7 @@ export const addOrder = (cartItems, totalAmount) => {
     const userId = getState().auth.userId;
     const date = new Date();
     const response = await fetch(
-      'https://salon-products-server-default-rtdb.firebaseio.com/orders/${userId}.json?auth=${token}`,
+      'https://salon-products-server-default-rtdb.firebaseio.com/orders/${userId}.json?auth=${token}',
       {
         method: 'POST',
         headers: {

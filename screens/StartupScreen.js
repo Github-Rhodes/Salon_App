@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import { useDispatch } from 'react-redux';
 
-import Colors from '../constants/Colors';
+import Colors from './constants/Colors';
 import * as authActions from '../store/actions/auth';
 
 const StartupScreen = props => {
