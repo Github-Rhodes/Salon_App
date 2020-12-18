@@ -2,7 +2,7 @@
 
 ### About:
 
-This was my attampt to build a Salon app for ordering and scheduling.
+This was my attempt to build a Salon app for ordering and scheduling.
 
 ### Technologies:
 
