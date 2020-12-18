@@ -28,5 +28,5 @@ This was my attampt to build a Salon app for ordering and scheduling
 
 1. download Xcode for you compatible MacOS
 2. download zip from github
-3. npm install in project root
-4. npm start from root
+3. npm install in project folder
+4. npm start from folder
