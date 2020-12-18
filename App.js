@@ -11,6 +11,13 @@ import ordersReducer from './store/reducers/orders';
 import authReducer from './store/reducers/auth';
 import AppNavigator from './navigation/AppNavigator';
 
+const rootReducer = combineReducers({
+  products: productsReducer,
+  cart: cartReducer,
+  orders: ordersReducer,
+  auth: authReducer
+});
+
 const store = createStore(rootReducer, applyMiddleware(ReduxThunk));
 
 const fetchFonts = () => {
@@ -38,13 +45,4 @@ export default function App() {
       <AppNavigator />
     </Provider>
   );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+};

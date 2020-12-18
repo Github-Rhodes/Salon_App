@@ -29,7 +29,7 @@ import EditProductScreen, {
 import AuthScreen, {
   screenOptions as authScreenOptions
 } from '../screens/user/AuthScreen';
-import StartupScreen from '../screens/user/StartupScreen';
+import StartupScreen from '../screens/StartupScreen';
 import Colors from '../constants/Colors';
 import * as authActions from '../store/actions/auth';
 
