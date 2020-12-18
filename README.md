@@ -2,7 +2,7 @@
 
 ### About:
 
-Salon App for ordering products utylizing a Firebase Real Time Database.
+React-Native Salon App for ordering products utylizing a Firebase Real Time Database.
 
 ### Technologies:
 
