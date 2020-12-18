@@ -1,6 +1,6 @@
 ##
 
-### About
+### About:
 
 This was my attampt to build a Salon app for ordering and scheduling.
 
@@ -24,9 +24,9 @@ This was my attampt to build a Salon app for ordering and scheduling.
 - add more background styling to screens
 - add scheduling calender
 
-#### How to use:
+### How to use:
 
-1. download Xcode for you compatible MacOS
+1. download Xcode for your compatible MacOS
 2. download zip from github
 3. npm install in project folder
 4. npm start from project folder
