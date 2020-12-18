@@ -2,7 +2,7 @@
 
 ### About:
 
-This was my attempt to build a Salon app for ordering and scheduling.
+Salon App for ordering products utylizing a Firebase Real Time Database.
 
 ### Technologies:
 
