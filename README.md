@@ -4,7 +4,7 @@
 
 This was my attampt to build a Salon app for ordering and scheduling
 
-### Technologies
+### Technologies:
 
 1. Expo CLI
 2. React
@@ -18,13 +18,13 @@ This was my attampt to build a Salon app for ordering and scheduling
 - debug loading url to product page
 - only working on IOS platform - debug Android development
 
-### Stretch Goals
+### Stretch Goals:
 
 - profile page
 - add more background styling to screens
 - add scheduling calender
 
-#### How to use
+#### How to use:
 
 1. download Xcode for you compatible MacOS
 2. download zip from github
