@@ -70,25 +70,7 @@ export const ProductsNavigator = () => {
   );
 };
 
-// const ProductsNavigator = createStackNavigator(
-//   {
-//     ProductsOverview: ProductsOverviewScreen,
-//     ProductDetail: ProductDetailScreen,
-//     Cart: CartScreen
-//   },
-//   {
-//     navigationOptions: {
-//       drawerIcon: drawerConfig => (
-//         <Ionicons
-//           name={Platform.OS === 'android' ? 'md-cart' : 'ios-cart'}
-//           size={23}
-//           color={drawerConfig.tintColor}
-//         />
-//       )
-//     },
-//     defaultNavigationOptions: defaultNavOptions
-//   }
-// );
+
 
 const OrdersStackNavigator = createStackNavigator();
 
@@ -104,23 +86,7 @@ export const OrdersNavigator = () => {
   );
 };
 
-// const OrdersNavigator = createStackNavigator(
-//   {
-//     Orders: OrdersScreen
-//   },
-//   {
-//     navigationOptions: {
-//       drawerIcon: drawerConfig => (
-//         <Ionicons
-//           name={Platform.OS === 'android' ? 'md-list' : 'ios-list'}
-//           size={23}
-//           color={drawerConfig.tintColor}
-//         />
-//       )
-//     },
-//     defaultNavigationOptions: defaultNavOptions
-//   }
-// );
+
 
 const AdminStackNavigator = createStackNavigator();
 
