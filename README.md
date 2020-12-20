@@ -26,7 +26,7 @@ React-Native Salon App for ordering products utylizing a Firebase Real Time Data
 
 ### How to use:
 
-1. download Xcode for your compatible MacOS
+1. download Xcode for your compatible MacOS https://xcodereleases.com/
 2. download zip from github
 3. npm install in project folder
 4. npm start from project folder
