@@ -43,7 +43,7 @@ const ProductItem = props => {
 const styles = StyleSheet.create({
   product: {
     height: 300,
-    margin: 20
+    margin: 50
   },
   touchable: {
     borderRadius: 10,
@@ -54,6 +54,8 @@ const styles = StyleSheet.create({
     height: '60%',
     borderTopLeftRadius: 10,
     borderTopRightRadius: 10,
+    borderBottomLeftRadius: 10,
+    borderBottomRightRadius: 10,
     overflow: 'hidden'
   },
   image: {
@@ -68,12 +70,12 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: 'open-sans-bold',
     fontSize: 18,
-    marginVertical: 2
+    marginVertical: 5
   },
   price: {
     fontFamily: 'open-sans',
     fontSize: 14,
-    color: '#888'
+    color: '#0e0f0f'
   },
   actions: {
     flexDirection: 'row',
