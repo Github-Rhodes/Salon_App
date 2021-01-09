@@ -1,4 +1,3 @@
-import PRODUCTS from '../../data/sample-data';
 import {
   DELETE_PRODUCT,
   CREATE_PRODUCT,
