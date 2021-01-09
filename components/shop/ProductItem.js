@@ -43,7 +43,7 @@ const ProductItem = props => {
 const styles = StyleSheet.create({
   product: {
     height: 300,
-    margin: 50
+    margin: 60
   },
   touchable: {
     borderRadius: 10,
@@ -52,10 +52,7 @@ const styles = StyleSheet.create({
   imageContainer: {
     width: '100%',
     height: '60%',
-    borderTopLeftRadius: 10,
-    borderTopRightRadius: 10,
-    borderBottomLeftRadius: 10,
-    borderBottomRightRadius: 10,
+    borderRadius: 10,
     overflow: 'hidden'
   },
   image: {
