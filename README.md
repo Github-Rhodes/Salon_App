@@ -1,10 +1,10 @@
 ##
 
-### About
+### About:
 
-This was my attampt to build a Salon app for ordering and scheduling
+React-Native Salon App for ordering products utylizing a Firebase Real Time Database.
 
-### Technologies
+### Technologies:
 
 1. Expo CLI
 2. React
@@ -18,15 +18,15 @@ This was my attampt to build a Salon app for ordering and scheduling
 - debug loading url to product page
 - only working on IOS platform - debug Android development
 
-### Stretch Goals
+### Stretch Goals:
 
 - profile page
 - add more background styling to screens
 - add scheduling calender
 
-#### How to use
+### How to use:
 
-1. download Xcode for you compatible MacOS
+1. download Xcode for your compatible MacOS https://xcodereleases.com/
 2. download zip from github
-3. npm install in project root
-4. npm start from root
+3. npm install in project folder
+4. npm start from project folder
