@@ -11,7 +11,7 @@ React-Native Salon App for ordering products utylizing a Firebase Real Time Data
 3. React-Native
 4. React-Navigation
 5. React-Redux
-6. Firebase ReatTime Database
+6. Firebase RealTime Database
 
 ### Unsolved Problems:
 
